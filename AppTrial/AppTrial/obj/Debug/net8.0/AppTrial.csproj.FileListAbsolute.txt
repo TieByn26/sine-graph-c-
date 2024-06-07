@@ -1,0 +1,14 @@
+C:\Users\TienBjp\RiderProjects\AppTrial\AppTrial\bin\Debug\net8.0\AppTrial.exe
+C:\Users\TienBjp\RiderProjects\AppTrial\AppTrial\bin\Debug\net8.0\AppTrial.deps.json
+C:\Users\TienBjp\RiderProjects\AppTrial\AppTrial\bin\Debug\net8.0\AppTrial.runtimeconfig.json
+C:\Users\TienBjp\RiderProjects\AppTrial\AppTrial\bin\Debug\net8.0\AppTrial.dll
+C:\Users\TienBjp\RiderProjects\AppTrial\AppTrial\bin\Debug\net8.0\AppTrial.pdb
+C:\Users\TienBjp\RiderProjects\AppTrial\AppTrial\obj\Debug\net8.0\AppTrial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TienBjp\RiderProjects\AppTrial\AppTrial\obj\Debug\net8.0\AppTrial.AssemblyInfoInputs.cache
+C:\Users\TienBjp\RiderProjects\AppTrial\AppTrial\obj\Debug\net8.0\AppTrial.AssemblyInfo.cs
+C:\Users\TienBjp\RiderProjects\AppTrial\AppTrial\obj\Debug\net8.0\AppTrial.csproj.CoreCompileInputs.cache
+C:\Users\TienBjp\RiderProjects\AppTrial\AppTrial\obj\Debug\net8.0\AppTrial.dll
+C:\Users\TienBjp\RiderProjects\AppTrial\AppTrial\obj\Debug\net8.0\refint\AppTrial.dll
+C:\Users\TienBjp\RiderProjects\AppTrial\AppTrial\obj\Debug\net8.0\AppTrial.pdb
+C:\Users\TienBjp\RiderProjects\AppTrial\AppTrial\obj\Debug\net8.0\AppTrial.genruntimeconfig.cache
+C:\Users\TienBjp\RiderProjects\AppTrial\AppTrial\obj\Debug\net8.0\ref\AppTrial.dll
